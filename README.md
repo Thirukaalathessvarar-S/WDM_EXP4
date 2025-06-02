@@ -1,6 +1,6 @@
 # EX-04 Implementation of Cluster and Visitor Segmentation for Navigation patterns 
 ### Aim: 
-To implement Cluster and Visitor Segmentation for Navigation patterns in Python. &emsp;&emsp;&emsp;&emsp;**DATE :20.09.2024**
+To implement Cluster and Visitor Segmentation for Navigation patterns in Python. &emsp;&emsp;&emsp;&emsp;**DATE :02.06.2025**
 ### Description:
 Cluster visitor segmentation refers to the process of grouping or categorizing visitors to a website,application, or physical location into distinct clusters or segments based on various characteristics or behaviors they exhibit.This segmentation allows businesses or organizations to better understand their audience and tailor their strategies, marketing efforts,or services to meet the specific needs and preferences of each cluster.
   
